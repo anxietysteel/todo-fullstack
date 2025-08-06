@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# Virtual env
+venv/
+
+# Django
+/staticfiles/
+media/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React/Vite
+frontend/dist/
