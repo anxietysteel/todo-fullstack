@@ -3,7 +3,9 @@
 Современное веб-приложение для управления задачами (to-do list)  
 с разделением на **Backend (Django + DRF)** и **Frontend (React + Tailwind + Vite)**.
 
-![preview](https://your-screenshot-url.com) <!-- можно добавить скрин -->
+## Скриншоты
+
+![Главный экран](screenshots/todo_main.png)
 
 ---
 
