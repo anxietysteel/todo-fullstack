@@ -40,7 +40,7 @@
 Клонируем репозиторий
 
 ```bash
-git clone https://github.com/<ваш_логин>/<имя_репозитория>.git
+git clone https://github.com/lsteelanxietyl/todo-fullstack.git
 cd todo_project
 
 Настройка Backend (Django)
